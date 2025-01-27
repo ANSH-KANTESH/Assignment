@@ -1,0 +1,4 @@
+CustomerID,LookalikeCustomerID,SimilarityScore
+C0001,C004,0.85
+C0002,C005,0.8
+C0003,C006,0.78
